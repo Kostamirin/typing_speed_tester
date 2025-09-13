@@ -1,10 +1,14 @@
 #include <QApplication>
 #include <QPushButton>
 
+#include "interface/interface.h"
+#include "text_creating/text.h"
+//#inlucde "calculation/"
+
+
 int main(int argc, char *argv[]) {
     QApplication a(argc, argv);
     QPushButton button("Hello world!", nullptr);
-    button.resize(200, 100);
-    button.show();
+
     return QApplication::exec();
 }

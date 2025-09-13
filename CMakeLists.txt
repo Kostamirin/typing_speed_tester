@@ -13,7 +13,13 @@ find_package(Qt6 COMPONENTS
         Widgets
         REQUIRED)
 
-add_executable(typing_speed_tester main.cpp)
+add_executable(typing_speed_tester main.cpp
+        text_creating/text.h
+        text_creating/text.cpp
+        text_creating/text.h
+        interface/interface.cpp
+        interface/interface.h
+        interface/interface.ui)
 target_link_libraries(typing_speed_tester
         Qt::Core
         Qt::Gui
