@@ -1,0 +1,5 @@
+/home/kleymuner/CLionProjects/typing_speed_tester/build/Desktop-Debug/CMakeFiles/typing_speed_tester.dir
+/home/kleymuner/CLionProjects/typing_speed_tester/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/kleymuner/CLionProjects/typing_speed_tester/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/kleymuner/CLionProjects/typing_speed_tester/build/Desktop-Debug/CMakeFiles/typing_speed_tester_autogen_timestamp_deps.dir
+/home/kleymuner/CLionProjects/typing_speed_tester/build/Desktop-Debug/CMakeFiles/typing_speed_tester_autogen.dir

@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_typing_speed_tester_FILE /home/kleymuner/CLionProjects/typing_speed_tester/build/Desktop-Debug/typing_speed_tester)
+set(__QT_DEPLOY_TARGET_typing_speed_tester_TYPE EXECUTABLE)

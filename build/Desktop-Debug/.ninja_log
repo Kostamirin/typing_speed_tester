@@ -1,0 +1,18 @@
+# ninja log v6
+3	623	1757739190901349186	typing_speed_tester_autogen/timestamp	d7de31f8faeba41b
+3	623	1757739190901349186	typing_speed_tester_autogen/mocs_compilation.cpp	d7de31f8faeba41b
+3	623	1757739190901349186	/home/kleymuner/CLionProjects/typing_speed_tester/build/Desktop-Debug/typing_speed_tester_autogen/timestamp	d7de31f8faeba41b
+3	623	1757739190901349186	/home/kleymuner/CLionProjects/typing_speed_tester/build/Desktop-Debug/typing_speed_tester_autogen/mocs_compilation.cpp	d7de31f8faeba41b
+625	644	1757739190922348195	CMakeFiles/typing_speed_tester.dir/text_creating/text.cpp.o.ddi	280338664a7cb826
+625	1172	1757739190921348242	CMakeFiles/typing_speed_tester.dir/main.cpp.o.ddi	8b10cae631f4a514
+626	1175	1757739190923144200	CMakeFiles/typing_speed_tester.dir/interface/interface.cpp.o.ddi	89d51198ad8e7c51
+1175	1192	1757739191487609068	CMakeFiles/typing_speed_tester.dir/CXX.dd	16dfb6e35249a6ad
+1175	1192	1757739191487609068	CMakeFiles/typing_speed_tester.dir/CXXModules.json	16dfb6e35249a6ad
+1175	1192	1757739191487609068	CMakeFiles/typing_speed_tester.dir/main.cpp.o.modmap	16dfb6e35249a6ad
+1175	1192	1757739191487609068	CMakeFiles/typing_speed_tester.dir/text_creating/text.cpp.o.modmap	16dfb6e35249a6ad
+1175	1192	1757739191487609068	CMakeFiles/typing_speed_tester.dir/interface/interface.cpp.o.modmap	16dfb6e35249a6ad
+1192	1216	1757739191489653447	CMakeFiles/typing_speed_tester.dir/text_creating/text.cpp.o	33b641508586a04e
+626	5070	1757739190923421478	CMakeFiles/typing_speed_tester.dir/typing_speed_tester_autogen/mocs_compilation.cpp.o	f1f69ec0809cc3f7
+1193	5837	1757739191490036649	CMakeFiles/typing_speed_tester.dir/interface/interface.cpp.o	7dac07885a1bb36f
+1192	5838	1757739191488321559	CMakeFiles/typing_speed_tester.dir/main.cpp.o	1da5f7b31c1d5fc6
+5838	6279	1757739196134104997	typing_speed_tester	b9e02d3ed5e3072c

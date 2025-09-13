@@ -1,0 +1,7 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/typing_speed_tester.dir/main.cpp.o: dyndep
+
+build CMakeFiles/typing_speed_tester.dir/text_creating/text.cpp.o: dyndep
+
+build CMakeFiles/typing_speed_tester.dir/interface/interface.cpp.o: dyndep
+
