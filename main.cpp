@@ -8,6 +8,8 @@
 
 int main(int argc, char *argv[]) {
     QApplication a(argc, argv);
+    interface();
+    
     QPushButton button("Hello world!", nullptr);
 
     return QApplication::exec();

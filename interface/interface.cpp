@@ -1,6 +1,4 @@
-//
 // Created by kleymuner on 12.09.2025.
-//
 
 #include "interface.h"
 #include "ui_interface.h"
