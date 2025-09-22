@@ -20,6 +20,7 @@ class interface : public QWidget {
 public:
     explicit interface(QWidget *parent = nullptr);
 
+
     ~interface() override;
 
 private:

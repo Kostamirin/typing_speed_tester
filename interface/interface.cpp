@@ -11,3 +11,4 @@ interface::interface(QWidget *parent) : QWidget(parent), ui(new Ui::interface) {
 interface::~interface() {
     delete ui;
 }
+
