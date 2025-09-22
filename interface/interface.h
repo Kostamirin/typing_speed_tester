@@ -4,7 +4,7 @@
 #define TYPING_SPEED_TESTER_INTERFACE_H
 
 #include <QWidget>
-
+#include <QLabel>
 
 QT_BEGIN_NAMESPACE
 

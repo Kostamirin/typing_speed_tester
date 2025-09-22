@@ -3,11 +3,16 @@
 #ifndef TYPING_SPEED_TESTER_TEXT_H
 #define TYPING_SPEED_TESTER_TEXT_H
 
+#include <string>
 
 class text {
 public:
+    std::string set_base_test();
+
+private:
 
 };
+
 
 
 #endif //TYPING_SPEED_TESTER_TEXT_H
