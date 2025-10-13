@@ -1,20 +1,12 @@
 #include <QApplication>
-#include <QPushButton>
-
 #include "interface/interface.h"
-#include "text_creating/text.h"
-//#inlucde "calculation/"
-
 
 int main(int argc, char *argv[]) {
-    text text;
+    QApplication app(argc, argv);
 
-    QApplication a(argc, argv);
-    QPushButton button("Hello world!", nullptr);
+    interface w;
+    // By default, the target text field is empty; later it can be set via setTargetText()
+    w.show();
 
-
-    std::string user_text = text.set_base_test();
-
-
-    return QApplication::exec();
+    return app.exec();
 }

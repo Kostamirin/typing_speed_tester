@@ -19,7 +19,9 @@ add_executable(typing_speed_tester main.cpp
         text_creating/text.h
         interface/interface.cpp
         interface/interface.h
-        interface/interface.ui)
+        interface/interface.ui
+        main.h
+        main.h)
 target_link_libraries(typing_speed_tester
         Qt::Core
         Qt::Gui
