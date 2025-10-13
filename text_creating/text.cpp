@@ -7,3 +7,4 @@ std::string text::set_base_test()
     return std::string("Simple text");
 }
 
+
