@@ -8,10 +8,6 @@
 #include <QLabel>
 #include <QElapsedTimer>
 
-#include "../text_creating/text.h"
-text text_generation;
-
-//const QString typing_text = QString::fromStdString(text_generation.set_base_test());
 
 QT_BEGIN_NAMESPACE
 
