@@ -3,15 +3,20 @@
 #ifndef TYPING_SPEED_TESTER_TEXT_H
 #define TYPING_SPEED_TESTER_TEXT_H
 
-#include <string>
 #include <random>
+#include <string>
+
+#include "database/database.h"
+
+#include <stdio.h>
+#include <mysqlStubs.h>
 
 class text {
 public:
     std::string set_base_text();
 
 private:
-
+    vector<bool> chosen_parts;
 };
 
 

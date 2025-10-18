@@ -21,7 +21,9 @@ add_executable(typing_speed_tester main.cpp
         interface/interface.h
         interface/interface.ui
         main.h
-        main.h)
+        main.h
+        text_creating/database/database.cpp
+        text_creating/database/database.h)
 target_link_libraries(typing_speed_tester
         Qt::Core
         Qt::Gui
