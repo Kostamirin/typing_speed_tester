@@ -8,7 +8,7 @@
 
 class text {
 public:
-    std::string set_base_test();
+    std::string set_base_text();
 
 private:
 
