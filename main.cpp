@@ -3,14 +3,14 @@
 #include "text_creating/text.h"
 
 int main(int argc, char *argv[]) {
-    QApplication app(argc, argv);
+    QApplication application(argc, argv);
     text text;
-    interface w;
+    interface interface;
 
     // By default, the target text field is empty; later it can be set via setTargetText()
-    w.show();
-    w.interface::setTargetText(QString::fromStdString(text.set_base_text()));
+    interface.show();
+    interface.interface::setTargetText(QString::fromStdString(text.set_base_text()));
 
 
-    return app.exec();
+    return application.exec();
 }
